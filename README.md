@@ -56,17 +56,17 @@ And more...
   <h1 align="center">Sup Nerds... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Economic+%26+Financial+Analyst;Petroleum+Engineering+Enthusiast;Electronics+Programmer;+Python,+C,+R,+SQL,+Julia,+Micropython+Expert;Web+Developer;+Data+Scientist+%26+Analyst;Tech+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Economic+%26+Financial+Analyst;Petroleum+Engineering+Enthusiast+%26+Analyst;Electronics+Programmer;+Python Programmer;+C programmer;+Stata,+R,+Julia,+Micropython+Expert;+A+Web+Developer;+Data+Scientist+%26+Analyst;+Tech+Finace+Enthusiast" />
   </h1>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://www.linkedin.com/in/Adesh Patel" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/yourprofile" target="_blank">
+    <a href="https://github.com/analystibpateladesh" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:your-email@gmail.com" target="_blank">
+    <a href="mailto:patelsvr123@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -86,7 +86,7 @@ And more...
 - ⚙️ Passionate about **Web Development** and creating user-friendly applications  
 - 📊 Adept at **Financial Analytics** to aid in strategic decision-making  
 - 📈 Data visualization and business insight expert using tools like **Stata and R**  
-- 🌱 Currently diving deeper into **AI & Machine Learning**  
+- 🌱 Currently diving deeper into **AI & Machine Learning** & **Finance and Tech**
 - ☕️ Coffee and coding go hand in hand for me!  
 
 ---
