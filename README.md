@@ -9,6 +9,10 @@ Dynamic professional with 3+ years of experience in programming, data analysis, 
 - **Data Analysis Tools:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV  
 - **Finance Tools:** Financial Analysis, Forecasting, Comparison Analysis  
 - **Project Management:** Team Collaboration, Problem-Solving  
+![Python](https://img.shields.io/badge/Python-blue)
+![R](https://img.shields.io/badge/R-lightblue)
+![SQL](https://img.shields.io/badge/SQL-brightgreen)
+
 ## 💼 Experience
 
 ### Financial Research Intern at Gravitas Masters (01/2025 to Present)
