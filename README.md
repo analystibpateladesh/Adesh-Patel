@@ -28,6 +28,7 @@ And more...
 ### Portfolio Website  
 - **Skills Used:** HTML, CSS, Node.js  
 - Built a personal website showcasing projects and portfolio items.
+
 ## 📫 Contact Me
 - Email: patelsvn123@gmail.com  
 - LinkedIn: [Adesh Patel|| https://www.linkedin.com/in/adesh-patel-bb8042240/)  
