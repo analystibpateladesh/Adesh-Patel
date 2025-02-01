@@ -11,9 +11,16 @@ Dynamic professional with 3+ years of experience in programming, data analysis, 
 - **Data Analysis Tools:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV  
 - **Finance Tools:** Financial Analysis, Forecasting, Comparison Analysis  
 - **Project Management:** Team Collaboration, Problem-Solving  
-![Python](https://img.shields.io/badge/Python-blue)
-![R](https://img.shields.io/badge/R-lightblue)
-![SQL](https://img.shields.io/badge/SQL-brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## 💼 Experience
 
