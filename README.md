@@ -56,13 +56,13 @@ And more...
 <div class="hero-text">
   <h1 align="center"> Sup Nerds.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Mujtaba+Shafique;A+Software+Engineer+👨‍💻;+Web+Application+Developer;+React+Developer;+NextJS+Developer;+NodeJS+Developer;+Full+Stack+Developer;+NestJS+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Adesh+Patel;A+Financial+Analyst+👨‍💻;+Web+Developer;+Economic+Analyst;+Data+Scientist+Analyst;+Python/Micropython+Developer;+Full+Stack+Developer;+NestJS+Developer;" />
 </h1>
 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mujtaba-shafique/" target="_blank">
+<a href="https://www.linkedin.com/in/Adesh Patel/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
