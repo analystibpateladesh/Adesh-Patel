@@ -1,5 +1,5 @@
 # Adesh-Patel
- Introduction (About Me)
+ 
 # Hi, I'm Adesh Patel! 👋
 
 Dynamic professional with 3+ years of experience in programming, data analysis, and project management. Passionate about building data-driven solutions, analyzing trends, and creating positive impacts using technology.
@@ -107,6 +107,66 @@ And more...
 </div>
 
 ---
+<h2 align="center">💼 Professional Experiences 💼</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0078D7&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Economic+%26+Financial+Analyst+📊;Petroleum+Engineering+Specialist+⛽;+Electronics+Programmer+💻;Data+Scientist+%26+Analyst+🔍;Python,+R,+Stata+Developer+👨‍💻;Web+Developer+%26+Tech+Finance+Innovator+🌐" />
+</p>
+
+---
+
+<div align="center">
+  
+  ### 🚀 **Economic & Financial Analyst**  
+  **Key Contributions:**  
+  - Developed advanced financial models for investment forecasting and profitability analysis.  
+  - Conducted market research to inform executive decision-making on key projects.  
+  - Leveraged statistical tools such as **Stata** and **R** for predictive modeling.  
+  
+  ### 🛢️ **Petroleum Engineering Specialist**  
+  **Key Projects:**  
+  - Created innovative reservoir simulation models for efficient oil recovery.  
+  - Optimized drilling processes using data-driven production insights.  
+  - Contributed to technical research on sustainable exploration strategies.  
+
+  ### 💡 **Electronics Programmer & IoT Developer**  
+  **Expertise:**  
+  - Embedded systems programming using **MicroPython** and **C**.  
+  - Automated signal processing and communication protocols for IoT solutions.  
+  - Developed end-to-end hardware-software integration pipelines.  
+
+  ### 📊 **Data Scientist & Analyst**  
+  **Key Skills:**  
+  - Data wrangling, machine learning models, and statistical dashboards using **Python**, **SQL**, **R**, and **Julia**.  
+  - Built automated big data pipelines in cloud environments to enhance reporting efficiency.  
+
+  ### 🌐 **Web Developer & Tech Finance Specialist**  
+  **Notable Achievements:**  
+  - Designed dynamic, user-centric websites with **HTML**, **CSS**, and backend integrations.  
+  - Delivered scalable, interactive solutions for fintech projects.  
+  - Focused on performance optimization and seamless UI/UX.  
+</div>
+
+---
+  
+<p align="center">
+  <strong>Let’s Collaborate:</strong> If you're interested in tech, data, and innovation, let's connect!  
+  <br>
+  <a href="https://www.linkedin.com/in/AdeshPatel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://github.com/analystibpateladesh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</p>
+<h2 align="center"></h2>
+<br>
+<p align="center">
+<a href="https://www.buymeacoffee.com/mujtabacodw"> 
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mujtabacodes" /></a>
+</p>
 
 ### 📜 Certifications & Hackathons
 
