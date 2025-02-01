@@ -34,4 +34,7 @@ And more...
 - Built a personal website showcasing projects and portfolio items.
 ## 📫 Contact Me
 - Email: patelsvn123@gmail.com  
-- LinkedIn: [Adesh Patel|| https://www.linkedin.com/in/adesh-patel-bb8042240/)  
+- LinkedIn: [Adesh Patel|| https://www.linkedin.com/in/adesh-patel-bb8042240/) 
+
+![Adesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=analystibpateladesh&show_icons=true&theme=radical)
+ 
