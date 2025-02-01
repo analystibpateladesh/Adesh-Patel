@@ -66,9 +66,6 @@ And more...
     <a href="https://github.com/analystibpateladesh" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-  </p>
-</div>
-
     <a href="mailto:patelsvr123@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
