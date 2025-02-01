@@ -60,7 +60,7 @@ And more...
   </h1>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/Adesh-Patel" target="_blank">
+    <a href="https://www.linkedin.com/in/adesh-patel-bb8042240/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/analystibpateladesh" target="_blank">
@@ -103,7 +103,7 @@ And more...
 
 <div align="center">
     <img width="390px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=analystibpateladesh&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390px" src="https://github-readme-stats.vercel.app/api?username=analystinpateladesh&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats"/>
+    <img width="390px" src="https://github-readme-stats.vercel.app/api?username=analystibpateladesh&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats"/>
 </div>
 
 ---
