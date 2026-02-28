@@ -176,3 +176,7 @@ And more...
 
 ### 💬 Cheers & Let's Connect!  
 
+
+## 🎵 New Project Idea: Offline-First Music App
+
+I added a practical implementation plan in `music-app-roadmap.md` for building a legal, ad-free, offline-first music platform with search, playlists, sequential downloads, and smart recommendations.
