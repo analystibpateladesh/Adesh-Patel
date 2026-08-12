@@ -22,16 +22,6 @@ Dynamic professional with 3+ years of experience in programming, data analysis, 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 💼 Experience
-
-### Financial Research Intern at Gravitas Masters (01/2025 to Present)
-- Prepared financial reports and conducted comprehensive research.
-- Provided insights for financial decision-making.
-
-### Data Analyst at Codsoft (01/2025)
-- Optimized database performance and implemented indexing solutions.
-
-And more...
 ## 🚀 Projects
 
 ### Business Performance Dashboard  
